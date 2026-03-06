@@ -6,8 +6,6 @@
 
 Este repositorio contiene una solución completa para la implementación de un **Formulario Web Interactivo**. El proyecto se centra en la experiencia de usuario (UX), validaciones robustas en el lado del cliente y una arquitectura de código limpia y escalable.
 
-[EXPLORAR DEMO](#) | [REPORTAR ERROR](https://github.com/MazinguerZZ/Proyecto_Formulario/issues)
-
 ---
 
 ## ✨ Características Principales
